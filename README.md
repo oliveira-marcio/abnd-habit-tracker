@@ -1,4 +1,4 @@
-# Udacity Android Basics Nanodegree - Projeto 8 (Habit Tracker)
+# Udacity Android Basics Nanodegree - Projeto 9 (Habit Tracker)
  
 O propósito do projeto é ter um app Android que cria e inicializa um banco de dados [SQLite](https://www.sqlite.org/index.html) com sucesso e possua 2 métodos utilitários configurados para uso futuro que sejam capazes de manipular o banco de dados. 
 
@@ -25,5 +25,5 @@ Classes principais:
 
 ## Copyright
 
-Esse projeto foi desenvolvido por Márcio Souza de Oliveira.
+Esse projeto foi desenvolvido por Márcio Souza de Oliveira em 03/10/2016.
 
